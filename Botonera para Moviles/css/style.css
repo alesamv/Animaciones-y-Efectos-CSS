@@ -21,7 +21,15 @@ nav#botoneraMovil ul li{
     line-height: 40px;
     text-align: center;
     border: 1px solid white;
-    background: #aaaaaa;
+    background: #cccccc;
+}
+
+nav#botoneraMovil ul li:hover{
+	width:100%;
+	line-height:40px;
+	text-align:center;
+	border:1px solid white;
+	background:#aaa;
 }
 
 label#labelMovil span{
